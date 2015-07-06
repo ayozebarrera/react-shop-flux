@@ -1,6 +1,6 @@
 var React = require('react');
-var AppStore = require('../stores/app-store.js');
-var RemoveFromCart = require('./app-removetocart.js');
+var AppStore = require('../../stores/app-store.js');
+var RemoveFromCart = require('./app-removefromcart.js');
 var Increase = require('./app-increaseitem');
 var Decrease = require('./app-decreaseitem');
 
